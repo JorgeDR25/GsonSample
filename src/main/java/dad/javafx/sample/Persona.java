@@ -1,3 +1,4 @@
+package dad.javafx.sample;
 public class Persona {
 
 	public String nombre,apellidos;

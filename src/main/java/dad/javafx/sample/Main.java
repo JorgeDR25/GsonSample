@@ -1,3 +1,4 @@
+package dad.javafx.sample;
 import java.util.Scanner;
 
 import com.google.gson.Gson;
