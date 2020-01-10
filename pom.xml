@@ -3,11 +3,12 @@
   <groupId>dad.maven.gson</groupId>
   <artifactId>GsonSample</artifactId>
   <version>0.0.1</version>
-	<exec.mainClass>dad.javafx.sample.Main</exec.mainClass>
   <name>GsonSample</name>
   <description>Proyecto GsonSample</description>
   
-  
+  <properties>
+	  <exec.mainClass>dad.javafx.sample.Main</exec.mainClass>
+  </properties>
   
   <dependencies>
 		<dependency>
